@@ -1,0 +1,10 @@
+.Grade {
+    color: blueviolet;
+}
+.grade-output{
+    color: chartreuse;
+}
+#grade-output {
+    margin-left: 20px;
+    font-size: medium;
+}
